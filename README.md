@@ -1,4 +1,4 @@
 git-workshop
 ============
 
-Demo repo workshop Git
+Dat is hier toch geen .NET repository he?
